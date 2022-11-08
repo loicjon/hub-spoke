@@ -2,6 +2,9 @@
 
 1. Important :
 
+* __DMZ__ zone démilitarisée  
+`Sous réseau isolé séparant le réseau local d'un réseau considéré comme moins sécurisé`
+
 * Point d'entrée central de la connectivité : __réseau virtuel Hub__
 Servant aussi de point de connectivité aux *réseaux locaux*.
 
@@ -12,3 +15,9 @@ Servant aussi de point de connectivité aux *réseaux locaux*.
 * __Réseau virtuel Azure__ : bloc de construction fondamental pour un réseau privé dans *Azure*.  
 
 * __Pare-feu Azure__ : service de sécurité réseau informatique géré qui protège les *ressources Réseau virtuel Azure*.  
+
+2. Avantages :
+
+* isolation des charges de travail.
+
+* 
