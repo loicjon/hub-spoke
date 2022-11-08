@@ -3,7 +3,9 @@
 1. Important :
 
 * __DMZ__ zone démilitarisée  
-`Sous réseau isolé séparant le réseau local d'un réseau considéré comme moins sécurisé`
+`Sous réseau isolé séparant le réseau local d'un réseau considéré comme moins sécurisé`  
+` cette séparation est faite par un firewall`  
+`Les serveurs du Lan ne doivent jamais être exposé directement à internet et inversement `  
 
 * Point d'entrée central de la connectivité : __réseau virtuel Hub__
 Servant aussi de point de connectivité aux *réseaux locaux*.
