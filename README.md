@@ -1,5 +1,7 @@
 # hub-spoke
 
+![Hub&Spoke](./HUB%20AND%20SPOKE.drawio.png)
+
 1. Important :
 
 * __DMZ__ zone démilitarisée  
@@ -21,5 +23,4 @@ Servant aussi de point de connectivité aux *réseaux locaux*.
 2. Avantages :
 
 * isolation des charges de travail.
-
-* 
+* Coûts.
