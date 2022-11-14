@@ -2,7 +2,7 @@
 
 ![Hub&Spoke](./hub%26spoke.png)
 
-1. Important :
+2. Important :
 
 * __DMZ__ zone démilitarisée  
 `Sous réseau isolé séparant le réseau local d'un réseau considéré comme moins sécurisé`  
@@ -20,7 +20,7 @@ Servant aussi de point de connectivité aux *réseaux locaux*.
 
 * __Pare-feu Azure__ : service de sécurité réseau informatique géré qui protège les *ressources Réseau virtuel Azure*.  
 
-2. Avantages :
+3. Avantages :
 
 * isolation des charges de travail.
 * Coûts.
