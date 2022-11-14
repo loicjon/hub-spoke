@@ -2,7 +2,7 @@
 
 ![Hub&Spoke](./hub%26spoke.png)
 
-2. Important :
+1. Important :
 
 * __DMZ__ zone démilitarisée  
 `Sous réseau isolé séparant le réseau local d'un réseau considéré comme moins sécurisé`  
