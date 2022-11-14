@@ -1,6 +1,6 @@
 # hub-spoke
 
-![Hub&Spoke](./HUB%20AND%20SPOKE.drawio.png)
+![Hub&Spoke](./hub%26spoke.png)
 
 1. Important :
 
