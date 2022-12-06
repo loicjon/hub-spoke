@@ -24,3 +24,5 @@ Servant aussi de point de connectivité aux *réseaux locaux*.
 
 * isolation des charges de travail.
 * Coûts.
+
+![Hub&Spoke](./hub%26spoke.drawio.png)
